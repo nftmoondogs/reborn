@@ -29,7 +29,7 @@ export default function AboutSection() {
 
               {/* NFT Address and additional content can be added here */}
             </div>
-            <a href="https://solscan.io/token/WARcU61sECeEK5DEbkY3wcjGxSGr4W8bVUpKbBNbgbu#holders" className="font-courier text-white bg-transparent border border-white py-2 px-4 rounded uppercase">
+            <a href="https://www.pump.fun/9CecZ31s4oeFphCcTUkEKz1TymUeyJr7enYK4Dz9urBb" className="font-courier text-white bg-transparent border border-white py-2 px-4 rounded uppercase">
               Buy now on Pump.fun
             </a>
           </div>
