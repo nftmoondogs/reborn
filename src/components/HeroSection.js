@@ -28,7 +28,7 @@ export default function HeroSection() {
         </h1>
         {
           isMobile ?
-            <img src="https://i.ibb.co/cDpmWxs/woof.png" alt="WOOF Logo" className="inline h-64" />
+            <img src="https://i.ibb.co/vxdjDvF/nyandog-logo.png" alt="WOOF Logo" className="inline h-64" />
           :
             <video 
               src="/videos/woof3d.mp4" 
@@ -40,7 +40,8 @@ export default function HeroSection() {
               className="inline h-164"
             />
         }
-        <p className="font-courier text-6xl mb-8">NYANDOG TOKEN launching on Pump.Fun</p>
+                <p className="font-courier text-6xl mb-8 text-violet-400 ">NYANDOG TOKEN</p>
+        <p className="font-courier text-6xl mb-8"> launching on Pump.Fun</p>
         <a href="#about" className="font-courier text-white uppercase underline text-base px-6 py-3 transition duration-300">
           Learn More
         </a>
