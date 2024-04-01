@@ -18,7 +18,7 @@ const Home = () => {
         strictTokenList: false,
         formProps: {
           fixedOutputMint: true,
-          initialOutputMint: "WARcU61sECeEK5DEbkY3wcjGxSGr4W8bVUpKbBNbgbu",
+          initialOutputMint: "",
         },
       });
     }

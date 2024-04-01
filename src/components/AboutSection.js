@@ -6,22 +6,21 @@ export default function AboutSection() {
           
           {/* Left Side */}
           <div className="space-y-6 flex justify-center">
-            <img src="https://i.ibb.co/fXRS1kD/to-woof-cult.png" alt="A Love Letter To Wen Bros" className="max-w-xs md:max-w-sm" />
+            <img src="https://i.ibb.co/6WBXX57/rainbow.png" alt="A Love Letter To Wen Bros" className="max-w-xs md:max-w-sm" />
           </div>
           
           {/* Right Side */}
           <div className="pt-4">
-            <h2 className="font-courier text-2xl font-bold mb-4">COLLECTIVE FORCE OF DEGENS</h2>
+            <h2 className="font-courier text-2xl font-bold mb-4">rainbow meta</h2>
             <p className="font-simpfxo text-base mb-4">
-            WOOF have a Community of Degens dedicated to working together as a Collective Force of Average Joe's with a single goal of supporting the
-          development and adoption of WOOF token and further amplifying the message of what is only possible on Solana.
+            The meme-tastic dog that'll have you chasing rainbows and leaving a trail of laughter! 
             </p>
-            <h3 className="font-courier-bold text-xl font-bold">WOOF was born to push the limits of Solana</h3>
+            <h3 className="font-courier-bold text-xl font-bold">Holding Nyan Dog tokens may cause uncontrollable laughter, excessive wealth, and a sudden urge to bark at the moon! </h3>
             <ul className="font-simpfxo text-base space-y-2">
   
-  <li>• With the ambition to become web3's premier community coin, we're broadening our integration across the Solana blockchain's expansive ecosystem.</li>
+  <li>• Fair Launch using pump.fun</li>
   
-  <li>• We are on a mission to build the strongest, most engaged community in the web3 landscape.</li>
+  <li>• No Team Tokens just pure fun</li>
   
 </ul>
 
